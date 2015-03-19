@@ -8,7 +8,7 @@ customjs:
 ---
 Contact Info - test
 
-{{ site.baseurl }}/assets/js/vendor/wufoo.js
+<script async src="https://raw.githubusercontent.com/Relys/relys.github.io/master/assets/js/vendor/wufoo.js"></script>
 
 Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
 
