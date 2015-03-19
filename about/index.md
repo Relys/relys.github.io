@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 excerpt: "About Syler Clayton"
 modified: 2015-03-19T15:39:55-04:00
 image:
