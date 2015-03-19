@@ -8,73 +8,33 @@ modified: 2015-03-19T15:39:55-04:00
 <script async src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
 
 Fill out the form below and I'll get back to you by email.
-
-<form id="form1" name="form1" class="wufoo topLabel page1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
-      action="https://relys.wufoo.com/forms/z1rgxcaf1c5n7ze/">
-<ul>
-	
-	
-<li id="fo1li12" 		class="notranslate      ">
-	<label class="desc" id="title12" for="Field12">
-		Name
-			</label>
-	<div>
-		<input id="Field12" 			name="Field12" 			type="text" 			class="field text large" 			value="" 						maxlength="255" 						tabindex="1" 			onkeyup="handleInput(this); " 						onchange="handleInput(this);" 			      						/>
-			</div>
-	</li>
-
-
-
-<li id="fo1li1" 		class="notranslate      ">
-	<label class="desc" id="title1" for="Field1">
-		Email address
-				<span id="req_1" class="req">*</span>
-			</label>
-	<div>
-		<input id="Field1" 			name="Field1" 			type="email" 			spellcheck="false" 			class="field text large" 			value="" 			maxlength="255" 			tabindex="2"       						onkeyup="handleInput(this);" 			onchange="handleInput(this);" 						required 			/>
-	</div>
-		<p class="instruct" id="instruct1"><small>Your email address will remain private and won't be shared with anyone.</small></p>
-	</li>
-
-
-
-<li id="fo1li10"
-		class="notranslate      ">
-
-	
-	<label class="desc" id="title10" for="Field10">
-		Message
-				<span id="req_10" class="req">*</span>
-			</label>
-
-	<div>
-				<textarea id="Field10"
-			name="Field10"
-			class="field textarea medium"
-			spellcheck="true"
-			rows="10" cols="50"
-						
-						tabindex="3"
-			onkeyup="handleInput(this); "
-						onchange="handleInput(this);"
-			      			required 			 ></textarea>
-
-			</div>
-
-	
-	
-	</li>
-
-
-
-<li id="fo1li11" 		class="notranslate      ">
-	<label class="desc" id="title11" for="Field11">
-		How'd you hear about my website?
-			</label>
-	<div>
-		<input id="Field11" 			name="Field11" 			type="text" 			class="field text large" 			value="" 						maxlength="255" 						tabindex="4" 			onkeyup="handleInput(this); " 						onchange="handleInput(this);" 			      						/>
-			</div>
-	</li>
+<form id="form1" name="form1" class="wufoo  page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://mademistakes.wufoo.com/forms/zr2w1zk1hbcjv0/#public">
+  <ul>
+    <li id="foli7" class="notranslate">
+      <label class="desc" id="title7" for="Field7"> Name </label>
+      <div>
+        <input id="Field7" name="Field7" type="text" class="field text large" value="" maxlength="255" tabindex="1" onKeyUp="" />
+        </div>
+    </li>
+    <li id="foli2" class="notranslate">
+      <label class="desc" id="title2" for="Field2"> Email address <span id="req_2" class="req">*</span> </label>
+      <div>
+        <input id="Field2" name="Field2" type="email" spellcheck="false" class="field text large" value="" maxlength="255" tabindex="2" required />
+      </div>
+      <p class="instruct" id="instruct2"><small>Your email address will remain private and won't be shared with anyone.</small></p>
+    </li>
+    <li id="foli1" class="notranslate">
+      <label class="desc" id="title1" for="Field1"> Message <span id="req_1" class="req">*</span> </label>
+      <div>
+        <textarea id="Field1" name="Field1" class="field textarea medium" spellcheck="true" rows="10" cols="50" tabindex="3" onkeyup="" required></textarea>
+      </div>
+    </li>
+    <li id="foli10" class="notranslate">
+      <label class="desc" id="title10" for="Field10"> How'd you hear about my website? </label>
+      <div>
+        <input id="Field10" name="Field10" type="text" class="field text large" value="" maxlength="255" tabindex="4" onKeyUp="" />
+      </div>
+    </li>
     <li class="buttons">
       <div>
         <input id="saveForm" name="saveForm" class="btn" type="submit" value="Send Message" />
@@ -83,7 +43,7 @@ Fill out the form below and I'll get back to you by email.
     <li class="hidden">
       <label for="comment">Do Not Fill This Out</label>
       <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-      <input type="hidden" id="idstamp" name="idstamp" value="GPeVWas/tPbdYPXUKkHm8VygCbYDms1BkI/l9npq2aY=" />
+      <input type="hidden" id="idstamp" name="idstamp" value="DXSyHZyBYpNZI+88LvVOKO8dSfd/5lyIeCQAXFVxeJY=" />
     </li>
   </ul>
 </form>
