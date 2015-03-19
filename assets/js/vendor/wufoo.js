@@ -1,6 +1,6 @@
 function initForm() {
 	initializeFocus();
-	var e = document.getElementsByTagName("form1")[0];
+	var e = document.getElementsByTagName("form1");
 	addEvent(e, "submit", disableSubmitButton);
 	ifInstructs();
 	showRangeCounters()
