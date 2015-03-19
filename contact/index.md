@@ -37,7 +37,7 @@ Fill out the form below and I'll get back to you by email.
     </li>
     <li class="buttons">
       <div>
-        <input id="saveForm" name="saveForm" class="btn" type="submit1" value="Send Message" />
+        <input id="saveForm" name="saveForm" class="btn" type="submit" value="Send Message" />
       </div>
     </li>
     <li class="hidden">
