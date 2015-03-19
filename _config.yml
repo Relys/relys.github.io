@@ -34,7 +34,7 @@ owner:
   name: Syler Clayton
   avatar: bio-photo.jpg
   email: info@sylerclayton.com
-  disqus-shortname:
+  disqus-shortname: sylerclayton
   twitter: MrRelys #username
   facebook: #username
   github: Relys #username
@@ -51,3 +51,4 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+comments: true
