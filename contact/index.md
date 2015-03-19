@@ -8,6 +8,7 @@ customjs:
 ---
 Contact Info - test
 
+{{ site.baseurl }}/assets/js/vendor/wufoo.js
 
 Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
 
