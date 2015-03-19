@@ -3,11 +3,11 @@ layout: page
 title: Contact
 excerpt: "Contact Syler Clayton"
 modified: 2015-03-19T15:39:55-04:00
+customjs:
+ - https://raw.githubusercontent.com/Relys/relys.github.io/master/assets/js/vendor/wufoo.js
 ---
 Contact Info - test
 
-
-{% javascript vendor/wufoo %}
 
 Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
 
