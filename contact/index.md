@@ -6,7 +6,7 @@ modified: 2015-03-19T15:39:55-04:00
 ---
 Contact Info - test
 
-<script async src="https://rawgit.com/Relys/relys.github.io/master/assets/js/vendor/wufoo.js"></script>
+<script async src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
 
 Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
 
