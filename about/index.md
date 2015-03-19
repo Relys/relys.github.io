@@ -1,26 +1,23 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About
+excerpt: "About Syler Clayton"
+modified: 2015-03-19T15:39:55-04:00
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+Syler Clayton has lived in Fairbanks for over 18 years. He was home-schooled in the I.D.E.A. program from K-12 and started attending the University of Alaska Fairbanks at age 16. He followed his Father, in graduating from the College of Engineering and Mines. 
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+In 2014 he received his MS/BS in Computer Science with a Minor in Mathematics at the age of 21. His thesis was "Intelligent Management Platform Interface Protocol Security" which he wrote a Metasploit module for. As a graduate student he worked on several research projects including a security audit for a Warehouse Database Code Scanner project for the Department of Defense as well as redesigning the Computer Science Department web site. He also helped TA a Java class for two years. 
 
-## So Simple Theme is all about:
+During his studies he volunteered as Treasurer at The University of Alaska Fairbanks Cyber Security Club. He volunteered for White Team for the At Large Collegiate Cyber Defense Competition (ALCCDC) 2013. He then participated as a Windows/Linux Expert on the Blue Team 2014. His team placed first in regionals and went on to place third in nationals. As of recent, he volunteered as Red Team Captain for the ALCCDC 2015. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+He has helped develop several 0day total control exploits for the Nintendo 3DS and Wii U in his spare time. He also helped write a suite of the first decryption tools released for the Nintendo 3DS’s AES hardware engine. He also likes to participate in various CTF’s such as CSAW and the Boston Key Party. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+He has obtained  the Information Systems Security (INFOSEC) Professional and System Administrator certifications from the Committee on National Security Systems. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+He is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
+### Interests
+Programming, Reverse Engineering, Cryptography, Security, Mathematics, Virtual Reality

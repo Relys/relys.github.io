@@ -1,10 +1,10 @@
 ---
 layout: post
 title: First Article Entry
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "First article entry"
 modified: 2015-03-19
 categories: articles
-tags: [fist-article-entry]
+tags: [first-article-entry]
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
