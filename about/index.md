@@ -4,9 +4,7 @@ title: About
 excerpt: "About Syler Clayton"
 modified: 2015-03-19T15:39:55-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about-image.jpg
 ---
 Syler Clayton has lived in Fairbanks for over 18 years. He was home-schooled in the I.D.E.A. program from K-12 and started attending the University of Alaska Fairbanks at age 16. He followed his Father, in graduating from the College of Engineering and Mines. 
 
@@ -19,5 +17,6 @@ He has helped develop several 0day total control exploits for the Nintendo 3DS a
 He has obtained  the Information Systems Security (INFOSEC) Professional and System Administrator certifications from the Committee on National Security Systems. 
 
 He is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
+
 ### Interests
 Programming, Reverse Engineering, Cryptography, Security, Mathematics, Virtual Reality
