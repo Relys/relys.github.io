@@ -4,17 +4,14 @@ title: Contact
 excerpt: "Contact Syler Clayton"
 modified: 2015-03-19T15:39:55-04:00
 ---
-Contact Info - test
 
 <script async src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
 
-Have something longer you want to ask me? Fill out the form below and I'll get back to you by email.
+Fill out the form below and I'll get back to you by email.
 
 <form id="form1" name="form1" class="wufoo topLabel page1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
       action="https://relys.wufoo.com/forms/z1rgxcaf1c5n7ze/">
 <ul>
-	
-	
 	
 	
 <li id="fo1li12" 		class="notranslate      ">
@@ -83,12 +80,10 @@ Have something longer you want to ask me? Fill out the form below and I'll get b
         <input id="saveForm" name="saveForm" class="btn" type="submit" value="Send Message" />
       </div>
     </li>
-    <li class="hide">
-		<label for="comment">Do Not Fill This Out</label>
-		<textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-		<input type="hidden" id="idstamp" name="idstamp" value="rRfwG452ewR92m8Zz76MvDjerMjR17dQ4JrHInUJkNg=" />
-				<input type="hidden" id="stats" name="stats" value="{&quot;errors&quot;:0,&quot;startTime&quot;:0,&quot;endTime&quot;:0,&quot;referer&quot;:null}" />
-				<input type="hidden" id="clickOrEnter" name="clickOrEnter" value="" />
-			</li>
+    <li class="hidden">
+      <label for="comment">Do Not Fill This Out</label>
+      <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+      <input type="hidden" id="idstamp" name="idstamp" value="GPeVWas/tPbdYPXUKkHm8VygCbYDms1BkI/l9npq2aY=" />
+    </li>
   </ul>
 </form>
