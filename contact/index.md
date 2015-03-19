@@ -4,7 +4,6 @@ title: Contact
 excerpt: "Contact Syler Clayton"
 modified: 2015-03-19T15:39:55-04:00
 ---
-Contact Info
 <script async src="{{ site.baseurl }}/assets/js/vendor/wufoo.js"></script>
 
 <form id="form1" name="form1" class="wufoo  page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://relys.wufoo.com/forms/z1rgxcaf1c5n7ze/#public">
