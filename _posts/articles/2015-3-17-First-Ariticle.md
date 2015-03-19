@@ -2,7 +2,7 @@
 layout: post
 title: First Article Entry
 excerpt: "First article entry"
-modified: 2015-03-19
+modified: 2015-03-19T15:39:55-04:00
 categories: articles
 tags: [first-article-entry]
 image:
