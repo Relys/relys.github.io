@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Wii U Hombrew"
-modified: 2015-03-20T15:39:55-04:00
+modified: 2015-03-03
 categories: blog
 excerpt: "Creating Pong on the Wii U"
 tags: [wii-u-homebrew]
 image:
   feature:
-date: 2015-03-20T15:39:55-04:00
+date: 2015-03-03
 comments: true
 share: true
 ---
