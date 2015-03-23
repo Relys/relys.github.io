@@ -15,4 +15,6 @@ Here's a sneak preview of a little something I put together after Hykem and I fi
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/5ca_qIKwPwY" frameborder="0"> </iframe>
 
+<a href="{{ site.baseurl }}/projects/wiiu/pong/index.html">Play Demo</a>
+
 <a href="http://gbatemp.net/threads/video-first-wii-u-homebrew-game-pong.383020/">Discussion Thread</a>
