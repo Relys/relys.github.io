@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wii U Hombrew"
+title: "Wii U Homebrew"
 modified: 2015-03-03
 categories: blog
 excerpt: "Creating Pong on the Wii U."
@@ -11,7 +11,7 @@ date: 2015-03-03
 comments: true
 share: true
 ---
-Here's a sneak preview of a little something I put together after Hykem and I figured out how to use the OSScreen functions while analysing OSFatal:
+Here's a sneak preview of a little something I put together after Hykem and I figured out how to use the OSScreen functions while analyzing OSFatal:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/5ca_qIKwPwY" frameborder="0"> </iframe>
 

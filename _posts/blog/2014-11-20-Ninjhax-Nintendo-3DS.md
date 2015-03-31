@@ -13,11 +13,11 @@ share: true
 ---
 Running http://smealum.net/ninjhax/ on my 3DS's.
 
-Press UUDDLRLRAB for secret menu
+Press UUDDLRLRAB for secret menu.
 
 One 3DS on sysnand 4.4.0-10U, one on emunand 9.2.0-20U and one on sysnand 9.2.0-20U.
 
-If you want to look into how this exploit works use my NCCH decryptor (https://github.com/Relys/3DS_Multi_Decryptor) to decrypt Cubic Ninja .3DS and ctrtool to extract the .code portion from the ExeFS.bin Then load up the extracted code.bin in IDA and find the functions that handle the QR loading. From there it's just understanding how the overflow works. Next you can piece together the payload and reverse the ROP chain. To determine how the rop gadgets work you will have to have the binaries from which they are called from. :)  This means you will have to have RAM dumps (kernel access) or the title keys to decrypt from the CDN (https://github.com/Relys/3DS_Multi_Decryptor) for the firmware version you're targeting.
+If you want to look into how this exploit works use my NCCH decryptor (https://github.com/Relys/3DS_Multi_Decryptor) to decrypt Cubic Ninja .3DS and ctrtool to extract the .code portion from the ExeFS.bin Then load up the extracted code.bin in IDA and find the functions that handle the QR loading. From there it's just understanding how the overflow works. Next you can piece together the payload and reverse the ROP chain. To determine how the ROP gadgets work you will have to have the binaries from which they are called from. :)  This means you will have to have RAM dumps (kernel access) or the title keys to decrypt from the CDN (https://github.com/Relys/3DS_Multi_Decryptor) for the firmware version you're targeting.
 
 So, I haven't fully looked into it yet. But I think it works along these lines:
 1. QR Code Overflow
