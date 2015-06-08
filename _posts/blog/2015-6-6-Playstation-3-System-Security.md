@@ -14,8 +14,6 @@ share: true
 
 
 Running homebrew on my PS3:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W3fcZkHv4wY" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/W3fcZkHv4wY" frameborder="0"> </iframe>
 
-
-Paper I wrote on the PS3's architecture and security measures:
-https://www.cs.uaf.edu/2012/fall/cs441/students/sc_ps3.pdf
+<a href="https://www.cs.uaf.edu/2012/fall/cs441/students/sc_ps3.pdf">Paper I wrote on the PS3's architecture and security measures</a>
