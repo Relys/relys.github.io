@@ -31,6 +31,54 @@
 					document.getElementById("text").innerHTML="Detected Wii U Firmware version 5.3.2";
 					window.location = "payload532.html";
 				}
+				-->See if browser is for Wii U version 5.0.0 or 5.1.0
+				else if (versionNumber == "3.0.3.12.12")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 5.0.0 or 5.1.0";
+					window.location = "payload500.html";
+				}
+				-->See if browser is for Wii U version 4.1.0
+				else if (versionNumber == "3.0.3.12.11")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 4.1.0";
+					window.location = "payload410.html";
+				}
+				-->See if browser is for Wii U version 4.0.0
+				else if (versionNumber == "3.0.3.12.6")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 4.0.0";
+					window.location = "payload400.html";
+				}
+				-->See if browser is for Wii U version 3.0.0 or 3.1.0
+				else if (versionNumber == "2.1.0.10.9")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 3.0.0 or 3.1.0";
+					var check = new XMLHttpRequest();
+					check.open('HEAD', "payload310.html", false);
+					check.send();
+					if (check.status != 404)
+						window.location = "payload310.html";
+					else
+						window.location = "payload300.html";
+				}
+				-->See if browser is for Wii U version 2.1.0
+				else if (versionNumber == "2.1.0.8.23")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 2.1.0";
+					window.location = "payload210.html";
+				}
+				-->See if browser is for Wii U version 2.0.0
+				else if (versionNumber == "2.1.0.8.21")
+				{
+					-->Display message and redirect to payload URL
+					document.getElementById("text").innerHTML="Detected Wii U Firmware version 2.0.0";
+					window.location = "payload200.html";
+				}
 			}
 			-->If we couldn't parse the browser version, throw an error message
 			else
