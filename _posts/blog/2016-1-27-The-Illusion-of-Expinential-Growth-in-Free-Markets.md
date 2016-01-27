@@ -3,7 +3,7 @@ layout: post
 title: "The Illusion of Expinential Growth in Free Markets"
 modified: 2015-1-27
 categories: blog
-excerpt: "A rant"
+excerpt: "Isn't the correct model for natural growth sigmodial?"
 tags: [economics-markets]
 image:
   feature:
