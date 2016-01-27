@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "State of the Economy"
+title: "The Illusion of Expinential Growth in Free Markets"
 modified: 2015-1-27
 categories: blog
-excerpt: "The illusion of expinential growth in free markets."
-tags: [economics-markets-exponential]
+excerpt: "A rant"
+tags: [economics-markets]
 image:
   feature:
 date: 2016-1-27
