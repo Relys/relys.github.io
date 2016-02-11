@@ -22,7 +22,7 @@ He is experienced with x86, x64, PowerPC, ARM, & MIPS assembly. He has familiari
 
 He is fluent in C, C++, Python, Java, C# and Bash. Experience with JavaScript, Ruby and Perl.
 
-He Has experience working as team lead on technical projects with group management, working with project management software, and using agile development techniques. He is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
+He has experience working as team lead on technical projects with group management, working with project management software, and using agile development techniques. He is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
 
 ### Interests
 Reverse Engineer, Exploit Developer, Shellcoder, Penetration Tester, System Administrator, Security Architect, Software Developer, Network Administrator, CTF Creator and Player, Hardware Tinkerer, Forensic Analyst, Red Team InfoSec Guru and VR Enthusiast.
