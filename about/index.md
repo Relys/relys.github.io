@@ -25,4 +25,4 @@ He is fluent in C, C++, Python, Java, C# and Bash. Experience with JavaScript, R
 He has experience working as team lead on technical projects with group management, working with project management software, and using agile development techniques. He is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
 
 ### Interests
-Reverse Engineer, Exploit Developer, Shellcoder, Penetration Tester, System Administrator, Security Architect, Software Developer, Network Administrator, CTF Creator and Player, Hardware Tinkerer, Forensic Analyst, Red Team InfoSec Guru and VR Enthusiast.
+Information Security, Reverse Engineering, Exploit Development, Shellcoding, Penetration Testing, System Administration, Security Architecture, Software Development, Network Administration, CTF Hosting and Participation, Hardware Tinkering, Forensic Analysis, Virtual Reality and Machine Learning.
