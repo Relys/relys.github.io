@@ -15,12 +15,12 @@ During his studies he worked on several research projects including a Security A
 While attending school Syler held positions in the UAF's <a href="http://www.csc.uaf.edu">Cyber Security</a> and Association for Computing Machinery clubs. In 2013 he volunteered as White Team for the <a href="http://www.virtualccdc.com">At-Large Collegiate Cyber Defense Competition (CCDC)</a>. In 2014 he played on the Blue Team and was appointed the Windows & Linux Expert title. His team placed first in regionals and went on to place third in <a href="http://www.nationalccdc.org">National CCDDC</a> out of an original 180 teams. Pivoting into a more offensive role he currently manages the Red Team for the At-Large CCDC (2015,2016) and plays on the Pacific Rim CCDC (2016).
 
 Syler has obtained several professional certifications from the <a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">Committee on National Security Systems</a> and <a href="https://www.offensive-security.com/">Offensive Security</a>:
-<ol>
+<ul>
   <li><a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">Information Systems Security (INFOSEC) Professional (NSTISSI-4011)</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">System Administrator (CNSSI-4013)</a></li>
   <li><a href="https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/">Offensive Security Certified Professional (OSCP)</a></li>
   <li><a href="https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/">Offensive Security Certified Expert (OSCE)</a></li>
-</ol>
+</ul>
 Syler likes playing and exploiting video games and embedded devices. He helped reverse engineer the crypto system of the Nintendo 3DS and released a suite of <a href="https://github.com/Relys/3DS_Multi_Decryptor">decryption tools</a>. He also helped reverse engineer the Wii U and develop a <a href="https://github.com/wiiudev/libwiiu">full chain of exploits</a> to gain initial access to the system. This included WebKit vulnerability hunting, heap grooming, return oriented programming, timing based side channel attacks and exploitation of a race condition in the kernel. He likes to participate in various CTF's and has helped host the <a href="https://twitter.com/veganzombiesctf">Vegan Zombies</a> CTF at <a href="http://www.bsidespdx.org/">BSidesPDX</a>.
 
 Titles he would use to describe himself: Reverse Engineer, Exploit Developer, Shellcoder, Penetration Tester, System Administrator, Security Architect, Software Developer, Network Administrator, CTF Creator and Player, Hardware Tinkerer, Forensic Analyst, Red Team InfoSec Guru and VR Enthusiast.
