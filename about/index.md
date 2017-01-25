@@ -22,6 +22,7 @@ Syler has obtained several professional certifications from the <a href="https:/
   <li><a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">System Administrator (CNSSI-4013)</a></li>
   <li><a href="https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/">Offensive Security Certified Professional (OSCP)</a></li>
   <li><a href="https://www.offensive-security.com/information-security-certifications/osce-offensive-security-certified-expert/">Offensive Security Certified Expert (OSCE)</a></li>
+  <li><a href="https://www.giac.org/certification/security-essentials-gsec">GIAC Security Essentials (GSEC)</a></li>
 </ul>
 Syler likes playing and exploiting video games and embedded devices. He helped reverse engineer the crypto system of the Nintendo 3DS and released a suite of <a href="https://github.com/Relys/3DS_Multi_Decryptor">decryption tools</a>. He also helped reverse engineer the Wii U and develop a <a href="https://github.com/wiiudev/libwiiu">full chain of exploits</a> to gain initial access to the system. This included WebKit vulnerability hunting, heap grooming, return oriented programming, timing based side channel attacks and exploitation of a race condition in the kernel. He likes to participate in various CTF's and has helped host the <a href="https://twitter.com/veganzombiesctf">Vegan Zombies</a> CTF at <a href="http://www.bsidespdx.org/">BSidesPDX</a>.
 
