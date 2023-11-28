@@ -6,7 +6,7 @@ description: Reverse Engineer, Exploit Dev, Pen Tester, Red Team InfoSec Guru an
 logo: site-logo.jpg
 search: true
 #url: http://localhost:4000
-url: //syler.co
+url: //sylerclayton.com
 # Jekyll configuration
 
 permalink:   /:categories/:title/
