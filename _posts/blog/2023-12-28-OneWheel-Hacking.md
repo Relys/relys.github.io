@@ -11,26 +11,27 @@ date: 2023-12-28
 comments: true
 share: true
 ---
-Embarking on a New Adventure
-Over the past year, I dove headfirst into an ambitious project: reverse engineering the Future Motion Onewheel. My journey in the realm of technology isn't new; my past exploits in crafting 0day vulnerabilities and developing custom homebrew libraries for the Nintendo Wii U and 3DS had set the stage. Yet, this project was different - it was about a device I use and love, the OneWheel.
 
-United for a Greater Good
-Our mission was driven by two primary objectives: advocating for the right to repair and improving the safety of Onewheel users. We believed that unlocking the mysteries of the Onewheel's firmware would enable us to make meaningful contributions to the community.
+# Navigating the Technical Terrain: Reverse Engineering the Future Motion OneWheel
+Over the last year, I've embarked on a technically challenging and ethically nuanced project: reverse engineering the Future Motion OneWheel. This journey isn't my first foray into the complex world of technology - my background includes developing 0day vulnerabilities and custom homebrew libraries for gaming consoles like the Nintendo Wii U and 3DS. However, this endeavor with the OneWheel stands out due to its integration into my personal life and the potential impact on the user community.
 
-The Initial Breakdown
-The journey began with the disassembly of the Onewheel, focusing on its STM32F3 microcontroller. Our approach was methodical, drawing inspiration from a sophisticated multi-stage low-level attack detailed in a USENIX paper (https://www.usenix.org/system/files/woot20-paper-obermaier.pdf). This method was our roadmap to accessing the firmware.
+# Mission: Right to Repair and User Safety
+Our team's primary goals were twofold: advocating for the right to repair and enhancing the safety of Onewheel users. We hypothesized that by deciphering the OneWheel's firmware, we could contribute significantly to both these causes.
 
-The Breakthrough
-We employed voltage glitching and FPB hijacking, a challenging yet exhilarating process. This technique was pivotal in spawning a privileged shell, allowing us full access to the system. Upon analyzing the dumped firmware with Ghidra, we uncovered a critical aspect: the Onewheel's use of asymmetric AES encryption without key signing. This discovery hinted at the potential to exploit the OTA update process for code execution on the device.
+# Technical Deconstruction
+The project commenced with a detailed teardown of the OneWheel, focusing primarily on its STM32F3 microcontroller. We adapted a complex, multi-stage low-level attack framework from a USENIX paper [Obermaier & Sigl, 2020](https://www.usenix.org/system/files/woot20-paper-obermaier.pdf) to navigate the system's defenses.
 
-Crafting a Solution
-Our response was to create custom open-source firmware. This wasn't about breaking the system for the sake of it; our ethos was rooted in responsible and ethical hacking. We strategically designed our firmware to extract the bootloader that contained the key, instead of distributing the key itself. This approach not only aligned with our ethical standards but also with the broader community's right to knowledge and repair.
+# Breakthrough via Voltage Glitching and FPB Hijacking
+The process involved intricate voltage glitching and Flash Patch and Breakpoint (FPB) hijacking. This approach was crucial in creating a privileged shell, granting us comprehensive access to the system. Subsequent analysis of the firmware, using tools like Ghidra, revealed a significant detail: the use of asymmetric AES encryption in the Onewheel's firmware, notably lacking key signing. This raised the possibility of exploiting the Over-The-Air (OTA) update process for code execution.
 
-Confronting Challenges
-Our journey wasn't without hurdles. Future Motion issued a DMCA takedown notice under the clause for creating a tool to bypass encryption. It was a complex situation, as we weren't distributing any intellectual property (IP) but merely providing a means for users to understand and repair their devices.
+# Ethical Development of Custom Firmware
+In response, we developed custom open-source firmware. Our ethical standpoint was clear: we aimed to responsibly hack the system, prioritizing community empowerment over exploitation. Our firmware was designed to extract the bootloader containing the encryption key, avoiding the direct distribution of the key itself, thus adhering to our ethical standards and supporting the community's right to knowledge and repair.
 
-Advocating for Safety and Repairability
-Our primary focus remained on underscoring the safety concerns surrounding the Onewheel and championing the right to repair movement. By sharing our findings and tools openly, we aimed to empower users, fostering a deeper understanding of their devices and advocating for safer, more repair-friendly products.
+# Legal Hurdles: DMCA Challenges
+The project faced legal challenges when Future Motion issued a DMCA takedown notice, citing our tool's ability to bypass encryption. This situation was complex; our work didn't involve distributing intellectual property but provided a means for users to understand and repair their devices.
 
-Reflecting on the Journey
-This project was more than a technical endeavor; it was a journey through the intricate web of ethics, law, and technology. It reinforced the importance of balancing curiosity with responsibility, underscoring the fine line that exists in the world of reverse engineering. As we move forward, we remain committed to using our skills for the betterment of technology and its users.
+# Focusing on Safety and Repairability
+Despite these challenges, our focus remained on highlighting safety issues with the OneWheel and advocating for the right to repair. By openly sharing our findings and tools, we aimed to empower users, fostering a deeper understanding of their devices and advocating for safer, more repair-friendly products.
+
+# Reflections: Ethics, Law, and Technology
+This project transcended mere technical exploration, delving into the intertwined realms of ethics, law, and technology. It underscored the importance of balancing inquisitiveness with responsibility, highlighting the delicate nature of reverse engineering. As we progress, our commitment to using our skills for the advancement of technology and its users remains steadfast.
