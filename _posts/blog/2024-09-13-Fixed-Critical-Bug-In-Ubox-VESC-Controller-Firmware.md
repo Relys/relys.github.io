@@ -26,4 +26,5 @@ I have resolved this by Including a #ifdef HW_SHUTDOWN_CUSTOM in shutdown.c and 
 
 I then proceeded to submit the code as a hotfix upstream: https://github.com/vedderb/bldc/pull/766
 
-You can find pre-compiled binaries here: 
+You can find pre-compiled binaries here: https://github.com/Relys/relys.github.io/raw/789195f516cdfe81d7e0a8adfe4d988ecba242f3/_posts/blog/ubox_single_6.05_shutdown_fix.zip
+
