@@ -24,7 +24,7 @@ Therefore in 6.05, the ubox still doesn’t have HW_SHUTDOWN_HOLD_ON defined, bu
 
 I have resolved this by Including a #ifdef HW_SHUTDOWN_CUSTOM in shutdown.c and then refactoring a few functions in hw_ubox_100_core.c so they are compatible with how shutdown_init() and do_shutdown() are called now in the rest of the code to support COMM_SHUTDOWN.
 
-I then proceeded to submit the code as a hotfix upstream: https://github.com/vedderb/bldc/pull/766
+I then proceeded to submit the code as a hotfix upstream: [https://github.com/vedderb/bldc/pull/766](https://github.com/vedderb/bldc/pull/766)
 
 You can find pre-compiled binaries here: https://github.com/Relys/relys.github.io/raw/789195f516cdfe81d7e0a8adfe4d988ecba242f3/_posts/blog/ubox_single_6.05_shutdown_fix.zip
 
