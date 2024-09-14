@@ -14,7 +14,7 @@ During his studies he worked on several research projects including a Security A
 
 While attending school Syler held positions in the UAF's <a href="http://www.csc.uaf.edu">Cyber Security</a> and Association for Computing Machinery clubs. In 2013 he volunteered as White Team for the <a href="http://www.virtualccdc.com">At-Large Collegiate Cyber Defense Competition (CCDC)</a>. In 2014 he played on the Blue Team and was appointed the Windows & Linux Expert title. His team placed first in regionals and went on to place third in <a href="http://www.nationalccdc.org">National CCDDC</a> out of an original 180 teams. Pivoting into a more offensive role he currently manages the Red Team for the At-Large CCDC (2015-2018) and plays on the Pacific Rim CCDC (2016).
 
-After graduate school Syler worked as a Software Developer/Analyst for a small consluting company <a href="https://www.resdat.com">Resource Data Inc.</a>
+After graduate school Syler worked as a Software Developer/Analyst for a small consluting company <a href="https://www.resdat.com">Resource Data Inc</a> then at HP Inc. 4.5 years, Oracle Cloud Infrastrcutre for 4 years and as of most recent Amazon Lab126 doing embedded systems penetration testing.
 
 Syler has obtained several professional certifications from the <a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">Committee on National Security Systems</a> and <a href="https://www.offensive-security.com/">Offensive Security</a>:
 <ul>
@@ -38,7 +38,7 @@ Experienced rooting/backdooring routers, phones and IoT devices using hardware a
 
 Ethical Hacker. Does not gain unauthorized access to systems without prior written permission. Has home hardware/software lab for conducting research and experimentation.
 
-Security Researcher with over 6 years of professional experience in Reverse Engineering, Exploit Development, Penetration Testing & Software Development. Over 20 years of self-taught programming & hacking experience.
+Security Researcher with over 12 years of professional experience in Reverse Engineering, Exploit Development, Penetration Testing & Software Development. Over 20 years of self-taught programming & hacking experience.
 
 Has experience working as team lead on technical projects with group management, working with project management software, and using agile development techniques. Is self-driven, eager to learn new technologies and strives for continued excellence in all aspects of his work and life.
 
