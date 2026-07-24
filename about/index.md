@@ -14,7 +14,7 @@ During her studies she worked on several research projects including a Security 
 
 While attending school Syler held positions in the UAF's <a href="http://www.csc.uaf.edu">Cyber Security</a> and Association for Computing Machinery clubs. In 2013 she volunteered as White Team for the <a href="http://www.virtualccdc.com">At-Large Collegiate Cyber Defense Competition (CCDC)</a>. In 2014 she played on the Blue Team and was appointed the Windows & Linux Expert title. Her team placed first in regionals and went on to place third in <a href="http://www.nationalccdc.org">National CCDDC</a> out of an original 180 teams. Pivoting into a more offensive role she currently manages the Red Team for the At-Large CCDC (2015-2018) and plays on the Pacific Rim CCDC (2016).
 
-After graduate school Syler worked as a Software Developer/Analyst for a small consluting company <a href="https://www.resdat.com">Resource Data Inc</a> then at HP Inc. 4.5 years, Oracle Cloud Infrastrcutre for 4 years and as of most recent Amazon Lab126 doing embedded systems penetration testing.
+After graduate school Syler worked as a Software Developer/Analyst for a small consulting company <a href="https://www.resdat.com">Resource Data Inc</a> then at HP Inc. 4.5 years, Oracle Cloud Infrastructure for 4 years and as of most recent Amazon Lab126 doing embedded systems penetration testing.
 
 Syler has obtained several professional certifications from the <a href="https://en.wikipedia.org/wiki/Committee_on_National_Security_Systems">Committee on National Security Systems</a> and <a href="https://www.offensive-security.com/">Offensive Security</a>:
 <ul>
